@@ -1,0 +1,8 @@
+body {
+    background-color: #8c9eff;
+    color:white;
+}
+
+input:-webkit-autofill { 
+    background-color: transparent;
+}
